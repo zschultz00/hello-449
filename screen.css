@@ -50,6 +50,7 @@ h2{
     margin-left: 1em;
     margin-right: 1em;
     margin-top: 0em;
+    margin-bottom: 0em;
     background-color: #E9EAEC;
     padding: 1em;
     border-radius: 1em;
@@ -60,6 +61,7 @@ h2{
     margin-left: 1em;
     margin-right: 1em;
     margin-top: 0em;
+    margin-bottom: 0em;
 
 }
 
@@ -83,6 +85,7 @@ h2{
 
 pre {
     margin: 0;
+    font-family: 'Courier Prime', monospace;
 }
 
 .lh {
