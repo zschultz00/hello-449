@@ -47,7 +47,9 @@ h2{
 
 .history {
     width: 20em;
-    margin: 1em;
+    margin-left: 1em;
+    margin-right: 1em;
+    margin-top: 0em;
     background-color: #E9EAEC;
     padding: 1em;
     border-radius: 1em;
@@ -55,7 +57,9 @@ h2{
 
 .example{
     width: 20em;
-    margin: 1em;
+    margin-left: 1em;
+    margin-right: 1em;
+    margin-top: 0em;
 
 }
 
